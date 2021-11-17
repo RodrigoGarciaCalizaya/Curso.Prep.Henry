@@ -1,0 +1,35 @@
+* {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+body {
+    background-image: url(https://algunoslibrosbuenos.com/wp-content/uploads/2015/06/fondo-web-nexun.jpg);
+    background-size:cover;
+}
+
+div {
+
+    text-align: center;
+    margin: 0px auto;
+}
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    background-color: brown;
+    width: 500px;
+    height: 600px;
+    padding: 50px;
+    border: solid 5px blue;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
